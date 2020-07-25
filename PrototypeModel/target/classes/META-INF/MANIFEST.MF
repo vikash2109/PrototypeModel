@@ -1,7 +1,11 @@
 Manifest-Version: 1.0
 Implementation-Title: PrototypeModel
 Implementation-Version: 0.0.1-SNAPSHOT
-Build-Jdk-Spec: 1.8
+Built-By: vikashkumar.dubey
+Implementation-Vendor-Id: com.example.prototype
+Build-Jdk: 1.8.0_242
+Implementation-URL: http://projects.spring.io/spring-boot/PrototypeMod
+ el/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
